@@ -14,5 +14,76 @@
   "version": "0.0.0",
   "author": "DbpGaming",
   "name": "NEC5",
-  "files": []
+  "files": [
+    {
+      "projectID": 229876,
+      "fileID": 2483393,
+      "required": true
+    },
+    {
+      "projectID": 233019,
+      "fileID": 2450734,
+      "required": true
+    },
+    {
+      "projectID": 250290,
+      "fileID": 2916357,
+      "required": true
+    },
+    {
+      "projectID": 256717,
+      "fileID": 2666198,
+      "required": true
+    },
+    {
+      "projectID": 278494,
+      "fileID": 3327893,
+      "required": true
+    },
+    {
+      "projectID": 283344,
+      "fileID": 2518068,
+      "required": true
+    },
+    {
+      "projectID": 288885,
+      "fileID": 2838777,
+      "required": true
+    },
+    {
+      "projectID": 292785,
+      "fileID": 2915154,
+      "required": true
+    },
+    {
+      "projectID": 299540,
+      "fileID": 2706111,
+      "required": true
+    },
+    {
+      "projectID": 318255,
+      "fileID": 2919497,
+      "required": true
+    },
+    {
+      "projectID": 408853,
+      "fileID": 3060450,
+      "required": true
+    },
+    {
+      "projectID": 409087,
+      "fileID": 3328601,
+      "required": true
+    },
+    {
+      "projectID": 411045,
+      "fileID": 3070877,
+      "required": true
+    },
+    {
+      "projectID": 460609,
+      "fileID": 3321381,
+      "required": true
+    }
+  ]
 }
